@@ -1,4 +1,4 @@
-# Jogo da Adivinhação
+# Jogo de Adivinhação
 
 Um jogo simples em JavaScript onde o jogador precisa adivinhar um número aleatório entre 1 e 100.
 

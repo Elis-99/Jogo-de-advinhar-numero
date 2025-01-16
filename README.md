@@ -4,7 +4,7 @@ Um jogo simples em JavaScript onde o jogador precisa adivinhar um número aleat�
 
 ## Como Jogar
 
-1.  Abra o arquivo `index.html` no seu navegador.
+1.  Abra o arquivo `index.html` no seu navegador ou acesse https://jogo-dev-elisangelasena-elisangela-senas-projects.vercel.app/
 2.  Digite um número no campo de entrada e clique no botão "Chutar".
 3.  O jogo informará se o número chutado é maior ou menor que o número secreto.
 4.  Continue chutando até acertar o número.
